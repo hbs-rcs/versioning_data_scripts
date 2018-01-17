@@ -73,13 +73,11 @@ Dropbox, Google Drive and other services offer some form of version control in t
 * Allows you and others to navigate the history of a document readily.
 
 ***
-<font align="left">[Previous: README](README.md)</font>
-<font align="right">[Next: Getting Started with Git using GitKraken](02_GitKraken.md)</font>
-***
 
-***
-<font style="float:left;">[Previous: README](README.md)</font>
-<font style="float:right;">[Next: Getting Started with Git using GitKraken](02_GitKraken.md)</font>
+[Previous: README](README.md)
+
+[Next: Getting Started with Git using GitKraken](02_GitKraken.md)
+
 ***
 
 
