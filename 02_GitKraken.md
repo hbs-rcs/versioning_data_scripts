@@ -51,9 +51,6 @@ Tracking items in a folder (repository) using Git:
 
 Download the folder we have generated for this session [from here](../../raw/master/data/example_files.zip), and unzip it in a location of your choosing. It's usually easiest to place it on the desktop to retrieve it later more conveniently.
 
-
-
-
 ### Creating a Folder/Repository, Starting from your Local Machine
 
 There are a number of different ways to add files/folders for GitKraken to track. For this lesson, click on the folder icon at the top left corner. This will allow you to either *Open* an existing repository, or *Clone* a repository that you or someone else has created, or *Init* (initialize/create) a new repository. Today, we will be initializing a repository.
@@ -120,7 +117,6 @@ You do have the option of adding only certain files to the Staging area if you w
 
 To commit changes you must give a summary of the changes, include an optional message, and click on the Commit button:
 
-
 <img src="img/2.new-local_change.png" width="700" align="center">
 
 After the commit, the timeline changes to reflect the current state & history of our repository. Clicking on the top line, our recent commit, shows in the bottom pane the changes that were include, which is the addition (green plus square) of these files:
@@ -147,7 +143,6 @@ We're going to make several sets of changes that reflect the flexibility and cap
 Let's open the `README.md` document using our favorite text editor (see note below about text editors) and make this more useful. GitHub automatically renders Markdown document into readable HTML pages that are displayed at the bottom of the main page of your repo. Let's turn this into something more meaningful by added some boilerplate text and helpful information to the small amount of text already there:
 
 ```
-
 ## Overview
 Our code will demonstrate the different code snippets that have been used for programming
 classes. We
@@ -170,7 +165,6 @@ Contributions and references are included in the source code files.
 
 ## Licensing
 This is all available as CC BY 4.0 license. Enjoy!
-
 ```
 
 Save the changes to your file.
@@ -217,7 +211,6 @@ for (trials in 1:3000) {
 
 
 # END
-
 ```
 
 Save this file as well, and go back to GitKraken. Again, the program creates a new WIP timeline entry as it has detected changes. Click on this WIP line to show that GitKraken has noticed that our files have changed, and click on the README.md (file icon with an elipsis inside):
@@ -315,7 +308,7 @@ When we return to GitKraken, it has noticed the two changes. Since the change in
 
 **Exercise #1**
 
-1. Create a repository "learning_github" in GitKraken. Make sure to create it both locally, and remotely on github.com.
+1. Create a repository "learning_github" in GitKraken. Make sure to create it both locally, and remotely on github.com (via `init`).
 2. Find the folder on your local computer, and add a couple of small text files to it from your computer. 
 3. Create a new plain text file called "data-file.txt", add a line or 2 of content to it and save it to the "learning_github" folder.
 4. Go to GitKraken, and commit the change with an approriate message.
