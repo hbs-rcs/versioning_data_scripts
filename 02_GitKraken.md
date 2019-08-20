@@ -145,8 +145,7 @@ Let's open the `README.md` document using our favorite text editor (see note bel
 ```
 ## Overview
 Our code will demonstrate the different code snippets that have been used for programming
-classes. We
-will have this written in both R and Python. 
+classes. We will have this written in both R and Python. 
 
 ## Installation
 The full suite of code will require the Tmisc and dplyr R packages; 
