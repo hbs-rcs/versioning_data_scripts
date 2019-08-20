@@ -95,12 +95,7 @@ The folder we created the repsitory with now contains an extra folder with the n
 
 <img src="img/2.new-finder_view.png" width="700" align="center">
 
-
-### Creating a Repository, by Cloning an Existing Project
-
-
 ### Staging and Committing Changes
-
 
 But before we continue, we wish to utilize a few best practices from research data management: organize your files, using appropriate folder structure and file naming. Create 5 new directories: code, data, docs, figures, and other; and copy all but three files into these directories, placing them into their appropriate, final location. Leave behind the files "Pi Formulas...", "README.md" (since one is already there), and "util_functions.R". When done, your repo should look something like the following image:
 
