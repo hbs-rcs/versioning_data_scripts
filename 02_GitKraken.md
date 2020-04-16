@@ -62,7 +62,7 @@ Download the folder we have generated for this session [from here](../../raw/mas
 There are a number of different ways to add files/folders for Git/GitKraken to track.
 
 * **Click on the folder icon at the top left corner**. This will allow you to either *Open* an existing repository, or *Clone* a repository that you or someone else has created, or *Init* (initialize/create) a new repository. 
-* Today, we will be initializing a repository within a new folder, **click on Init, and then GitHub.com**, so that we can create a repository that we will keep locally, *as well at a remote location* as a backup or perhaps for sharing:
+* Today we will create a repository on Github.com and clone it into a new folder on our local machine. **Click on Init, and then GitHub.com** to create a repository on Github.
 
 <img src="img/2.new-init.png" width="700" align="center">
 
@@ -71,7 +71,7 @@ Fill in the fields as appropriate:
 * the name of the repository. *Keep this to letters, numbers, and underscores; for this class, let's call it "gitkraken_workshop".*
 * add a description of what this folder/repository will contain.
 * set the access for the remote location, whether this should be viewable by anyone, or kept private to yourself and only people you add as collaborators
-* leave the "Clone after init" option checked. This will make the repository available to you on GitHub.
+* leave the "Clone after init" option checked. This will make a local copy of the Github.com repository.
 * For the "New repository path", select a location on your computer where the newly created folder (with repo) should be placed using the Browse window. For this class, let's place the repo on your Desktop.
 * Finally, click on the "Create Repository and Clone" button.
 
